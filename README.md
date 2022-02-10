@@ -1,4 +1,3 @@
-# 一款JQuery编写的前端UI组件
 # DomPlugins是什么？
 一款JQuery编写的前端UI组件库。
 遵循原生 HTML/CSS/JS的书写与组织形式，拿来即用。
